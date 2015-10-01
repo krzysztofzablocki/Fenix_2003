@@ -1,0 +1,12 @@
+/// String names ends with © alt+0169
+Texture=CheckBox.bmp©
+BoxMSLU=(0,0)
+BoxMERD=(32,32)
+BackGroundMSLU=(0,52)
+BackGroundMERD=(65,69)
+CheckMSLU=(96,0)
+CheckMERD=(128,32)
+FontName=Lucida Console©
+FontWidth=12
+FontHeight=10
+FontColor=(255,0,0,200)

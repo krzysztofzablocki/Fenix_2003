@@ -1,0 +1,15 @@
+Texture=ScrollBar.dds©
+StripMSLU=(0,0) 
+StripMERD=(34,128)
+DownControlMSLU=(75,0) 
+DownControlMERD=(110,34)
+UpControlMSLU=(39,0) 
+UpControlMERD=(74,34)
+SliderMSLU=(40,62)
+SliderMERD=(74,77)
+BackGroundMSLU=(5,5) 
+BackGroundMERD=(10,10)
+FontName=Lucida Console©
+FontWidth=12
+FontHeight=12
+FontColor=(255,0,0,200)
